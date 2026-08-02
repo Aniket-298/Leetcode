@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
