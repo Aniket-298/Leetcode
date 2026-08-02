@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
