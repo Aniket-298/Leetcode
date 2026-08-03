@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -57,4 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Aniket-298/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
