@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Aniket-298/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
