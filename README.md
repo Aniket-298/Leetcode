@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aniket-298/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -88,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aniket-298/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aniket-298/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
