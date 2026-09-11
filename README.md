@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniket-298/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniket-298/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aniket-298/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aniket-298/Leetcode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aniket-298/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniket-298/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aniket-298/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aniket-298/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aniket-298/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
