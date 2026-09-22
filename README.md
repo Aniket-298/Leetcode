@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Aniket-298/Leetcode/tree/master/0994-rotting-oranges) |
+| [1539-kth-missing-positive-number](https://github.com/Aniket-298/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aniket-298/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aniket-298/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/Aniket-298/Leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
