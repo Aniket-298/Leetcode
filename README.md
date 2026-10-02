@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aniket-298/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Aniket-298/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/Aniket-298/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aniket-298/Leetcode/tree/master/0077-combinations) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/Aniket-298/Leetcode/tree/master/1539-kth-missing-positive-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
