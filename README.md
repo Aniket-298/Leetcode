@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aniket-298/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniket-298/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -188,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
