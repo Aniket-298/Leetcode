@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Aniket-298/Leetcode/tree/master/0133-clone-graph) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniket-298/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket-298/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aniket-298/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniket-298/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniket-298/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniket-298/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniket-298/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort
