@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aniket-298/Leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniket-298/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2409-count-days-spent-together](https://github.com/Aniket-298/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniket-298/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Aniket-298/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aniket-298/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniket-298/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
