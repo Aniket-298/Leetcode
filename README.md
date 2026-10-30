@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Aniket-298/Leetcode/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aniket-298/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Aniket-298/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Aniket-298/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aniket-298/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniket-298/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aniket-298/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aniket-298/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Topological Sort
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1539-kth-missing-positive-number](https://github.com/Aniket-298/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bracket Sequences
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aniket-298/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aniket-298/Leetcode/tree/master/0090-subsets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
