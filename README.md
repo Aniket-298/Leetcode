@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-298/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aniket-298/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aniket-298/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aniket-298/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Aniket-298/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Aniket-298/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-298/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aniket-298/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Aniket-298/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Aniket-298/Leetcode/tree/master/0739-daily-temperatures) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Aniket-298/Leetcode/tree/master/0372-super-pow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniket-298/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/Aniket-298/Leetcode/tree/master/0877-stone-game) |
 | [2409-count-days-spent-together](https://github.com/Aniket-298/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aniket-298/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
